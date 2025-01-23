@@ -15,7 +15,7 @@ This repository provides a simple setup to check your URDF files in ROS 2 using 
 ## Prerequisites
 
 Ensure you have the following installed:
-- **ROS 2** (Humble or any compatible distribution)
+- **ROS 2** (Humble, Jazzy or any compatible distribution)
 - Rviz2
 - Colcon build tools
 
