@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b6bc5b83-4633-41d7-a3f1-0f37f0e2ecec)---
+
 
 # Spawn URDF in ROS 2 with Rviz
 
