@@ -76,7 +76,8 @@ ros2 launch spawn_urdf_ros2 urdf.launch.py
 - Rviz2 will launch, and your URDF model should be visible.
 - Verify that all links, joints, and visuals appear as expected.
 
-![image](https://github.com/user-attachments/assets/685ae195-6337-448d-a258-14301b490dd7)
+![image](https://github.com/user-attachments/assets/050ceeae-79eb-43f2-8818-2d4ca04d0a9a)
+
 ![image](https://github.com/user-attachments/assets/c3571be7-00bd-4e81-96cf-4bf4b929164e)
 
 
