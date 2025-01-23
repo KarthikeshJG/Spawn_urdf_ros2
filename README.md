@@ -85,7 +85,7 @@ ros2 launch spawn_urdf_ros2 urdf.launch.py
 ---
 
 ## License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
+This repository is licensed under the License. See the LICENSE file for more details.
 
 ---
 
